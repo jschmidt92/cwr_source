@@ -180,6 +180,7 @@ list(APPEND POSEIDON_TEST_SOURCES
     Core/test_splash_gating.cpp
     Core/test_profile_manager.cpp
     Core/test_profile_service.cpp
+    Core/test_forge_local_store.cpp
     Core/test_fsm.cpp
     Core/test_globalAlive.cpp
     Core/test_legacy_logging.cpp
